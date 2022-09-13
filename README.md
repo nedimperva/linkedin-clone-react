@@ -9,9 +9,9 @@
 
 ## App functionality
 
-- Visitors can register using Full name, image url, email, and password.
-- Logged in users can can view other peoples posts and can add their own post in the feed.
-- Users can click on avatar on the navbar to sign out.
+- Visitors can register using their Full name, image URL, email, and password.
+- Logged-in users can view other people's posts and can add their own posts to the feed.
+- Users can click on the avatar on the navbar to sign out.
 
 ## Live Link (Firebase)
 
